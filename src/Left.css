@@ -1,0 +1,35 @@
+.left{
+    height: 100vh;
+    width: 50%;
+    background-color: #F8C822;
+ 
+}
+
+.left h1{
+    font-size: 100px;
+    font-family: Bebas Neue;
+    color:#000000;
+    text-align: end;
+    margin-top: 10px;
+}
+.lefttextcontainer{
+    padding-right: 10px;
+  }    
+  .txtcontainer{
+    
+    margin-left: 100px;
+  }
+  .txtcontainer h2{
+    font-family: gothic a1;
+    font-weight: bold;
+  }
+  .txtcontainer p{
+    text-align: justify;
+    font-family: poppins;
+    font-size: 18px;
+  }
+  .paracontainer{
+    width: 500px;
+  }
+
+  
